@@ -16,6 +16,6 @@ This is a simple Python script to generate a colorful QR code image from a websi
 
 ## Usage
 
-Run the script and enter your website URL when prompted:
+Run the script and enter your website URL when prompted. Also enter the fill and background colors for the qr code to get a customised QR code.
 
 
